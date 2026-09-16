@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=Vamsi0005&label=PROFILE+VIEWS&style=for-the-badge" />
 </p>
 
-👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
 I'm a Software Engineer and Full Stack Developer passionate about building modern, scalable, and user-focused web applications.
 
@@ -98,69 +98,6 @@ I enjoy working across the development lifecycle — from designing responsive i
 
 🔥 Currently Focusing On
 
-🚀 Area
-
-🎯 Focus
-
-💻 Software Engineering
-
-Clean, scalable & maintainable applications
-
-⚛️ Frontend
-
-React.js & modern UI development
-
-🟢 Backend
-
-Node.js, Express.js & REST APIs
-
-🗄️ Databases
-
-PostgreSQL & MongoDB
-
-🤖 AI Integration
-
-AI-powered web application features
-
-🧠 DSA
-
-Problem solving & coding patterns
-
-🏗️ Architecture
-
-System Design & scalable systems
-
-🚀 Featured Projects
-
-🧾 SmartERP
-
-Billing, Inventory & Accounting Management System
-
-A modern web-based ERP application designed around billing, inventory, accounting, and business workflows.
-
-Tech Stack
-
-React.js Node.js Express.js PostgreSQL Prisma
-
-🏠 Wonderlust
-
-Full Stack Property Listing Platform
-
-A full-stack web application inspired by modern property listing and booking platforms.
-
-Tech Stack
-
-Node.js Express.js MongoDB Mongoose EJS Cloudinary Mapbox
-
-📦 HomeInventory
-
-Cloud-Based Inventory Application
-
-A cloud-based application designed for managing household inventory using serverless technologies.
-
-Tech Stack
-
-Python AWS Lambda DynamoDB AWS SAM
 
 🤖 AI + Web Development
 
