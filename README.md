@@ -77,3 +77,5 @@ I enjoy working across the development lifecycle — from designing responsive i
 <p> <img src="https://skillicons.dev/icons?i=python" /> </p> <p> 🤖 Exploring AI-powered features and intelligent integrations for modern web applications. </p>
 ☁️ Cloud & Tools
 <p> <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" /> </p>
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vamsi0005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi0005&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
