@@ -48,7 +48,7 @@ I enjoy working across the development lifecycle — from designing responsive i
 
 🚀 Turning ideas into real-world applications
 
-🚀 What I Build
+<h3>🚀 What I Build</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&text=Modern%20Web%20Applications&fontSize=25&fontColor=ffffff" />
@@ -60,21 +60,21 @@ I enjoy working across the development lifecycle — from designing responsive i
   🗄️ PostgreSQL + MongoDB &nbsp;→&nbsp; 🤖 AI Features &nbsp;→&nbsp; ☁️ Cloud & Deployment
 </p>
 
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-🎨 Frontend
+<h4>🎨 Frontend</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-⚙️ Backend
+<h4>⚙️ Backend</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-🗄️ Databases
+<h4>🗄️ Databases</h4>
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
@@ -90,7 +90,7 @@ I enjoy working across the development lifecycle — from designing responsive i
   🤖 Exploring AI-powered features and intelligent integrations for modern web applications.
 </p>
 
-☁️ Cloud & Tools
+☁️ Cloud & Tools 
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
