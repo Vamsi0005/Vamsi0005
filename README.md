@@ -157,7 +157,7 @@ I'm interested in combining AI capabilities with modern web technologies to crea
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://vamsi-portfolio-two-eta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
