@@ -181,11 +181,6 @@ I'm interested in combining AI capabilities with modern web technologies to crea
 <!--                    ANIMATED FOOTER                         -->
 
 <!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn" />
-</p>
-
 <p align="center">
   <strong>⭐ Thanks for visiting my profile! ⭐</strong>
 </p>
@@ -193,3 +188,10 @@ I'm interested in combining AI capabilities with modern web technologies to crea
 <p align="center">
   <strong>🚀 Keep Building • 💻 Keep Learning • 🌱 Keep Growing</strong>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn" />
+</p>
+
+
