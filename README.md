@@ -80,7 +80,7 @@ I enjoy working across the development lifecycle — from designing responsive i
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-🤖 AI & Modern Development
+<h3>🤖 AI & Modern Development</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -90,16 +90,15 @@ I enjoy working across the development lifecycle — from designing responsive i
   🤖 Exploring AI-powered features and intelligent integrations for modern web applications.
 </p>
 
-☁️ Cloud & Tools 
+<h3>☁️ Cloud & Tools </h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
 </p>
 
-🔥 Currently Focusing On
+<h3>🔥 Currently Focusing On </h3>
 
-
-🤖 AI + Web Development
+<h3>🤖 AI + Web Development </h3>
 
 <p align="center">
   🤖 AI
@@ -113,14 +112,14 @@ I enjoy working across the development lifecycle — from designing responsive i
 
 I'm interested in combining AI capabilities with modern web technologies to create applications that are more intelligent, useful, and interactive.
 
-📊 GitHub Statistics
+<h3 color:"red">📊 GitHub Statistics </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vamsi0005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi0005&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-🔥 GitHub Streak
+<h3>🔥 GitHub Streak </h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi0005&theme=tokyonight&hide_border=true" />
@@ -132,7 +131,7 @@ I'm interested in combining AI capabilities with modern web technologies to crea
   <img src="https://raw.githubusercontent.com/Vamsi0005/Vamsi0005/output/github-contribution-grid-snake.svg" />
 </p>
 
-🧠 My Development Philosophy
+<h3>🧠 My Development Philosophy </h3>
 
 <p align="center">
   <strong>💡 Learn → 🧑‍💻 Build → 🐛 Debug → 🚀 Improve → 🔁 Repeat</strong>
@@ -142,7 +141,7 @@ I'm interested in combining AI capabilities with modern web technologies to crea
   <i>"Good software is not just about making things work — it's about making them reliable, maintainable, and useful."</i>
 </p>
 
-🤝 Connect With Me
+<h3>🤝 Connect With Me </h3>
 
 <p align="center">
   <strong>I'm always open to connecting, collaborating, and discussing technology.</strong>
@@ -162,7 +161,7 @@ I'm interested in combining AI capabilities with modern web technologies to crea
   </a>
 </p>
 
-💬 Let's Build Something Great
+<h3>💬 Let's Build Something Great </h3>
 
 <p align="center">
   <strong>💻 Software Engineering</strong>
