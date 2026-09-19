@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=Vamsi0005&label=PROFILE+VIEWS&style=for-the-badge" />
 </p>
 
-<h3>👨‍💻 About Me</h3>
+<h3><span style="color:#58A6FF;">👨‍💻 About Me</span></h3>
 
 I'm a Software Engineer and Full Stack Developer passionate about building modern, scalable, and user-focused web applications.
 
