@@ -47,7 +47,6 @@ I enjoy working across the development lifecycle — from designing responsive i
 🏗️ Learning System Design & Software Architecture
 
 🚀 Turning ideas into real-world applications
-</hr>
 <br>
 
 <h3>🚀 What I Build</h3>
@@ -61,6 +60,7 @@ I enjoy working across the development lifecycle — from designing responsive i
   <br><br>
   🗄️ PostgreSQL + MongoDB &nbsp;→&nbsp; 🤖 AI Features &nbsp;→&nbsp; ☁️ Cloud & Deployment
 </p>
+<br>
 
 <h3>🛠️ Tech Stack</h3>
 
@@ -97,6 +97,7 @@ I enjoy working across the development lifecycle — from designing responsive i
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
 </p>
+<br>
 
 <h3>🔥 Currently Focusing On </h3>
 
@@ -120,6 +121,7 @@ I'm interested in combining AI capabilities with modern web technologies to crea
   <img src="https://github-readme-stats.vercel.app/api?username=Vamsi0005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi0005&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+<br>
 
 <h3>🔥 GitHub Streak </h3>
 
@@ -142,6 +144,7 @@ I'm interested in combining AI capabilities with modern web technologies to crea
 <p align="center">
   <i>"Good software is not just about making things work — it's about making them reliable, maintainable, and useful."</i>
 </p>
+<br>
 
 <h3>🤝 Connect With Me </h3>
 
